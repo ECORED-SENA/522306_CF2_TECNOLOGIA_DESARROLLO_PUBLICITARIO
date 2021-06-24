@@ -16,7 +16,7 @@
 
     p.mb-3 Por consiguiente, el brief se convierte en la herramienta de información inicial para que el publicista y los creativos de la campaña puedan desarrollar las estrategias de comunicación, los conceptos creativos y las estructuras de los mensajes.
 
-    p.mb-5.error Por ende, de acuerdo con el normal funcionamiento de un proceso publicitario, el brief debe ser realizado por la empresa y puntualmente, por el departamento de mercadeo, después de realizar la recolección de toda la información que será entregada a los profesionales del área. 
+    p.mb-5 Por ende, de acuerdo con el normal funcionamiento de un proceso publicitario, el brief debe ser realizado por la empresa y puntualmente, por el departamento de mercadeo, después de realizar la recolección de toda la información que será entregada a los profesionales del área. 
 
   
 
@@ -256,7 +256,7 @@
               p #[strong Reason to believe:] conocida también como reason why (la razón del por qué). Se refiere al motivo por la que el consumidor va a decidirse por el producto que se está promocionando, por qué debe creer que es mejor que el de la competencia.        
 
       
-      .py-4(titulo="Qué no debe" :icono="require('@/assets/tema1/img-9.svg')")
+      .py-4(titulo="Qué no debe" :icono="require('@/assets/tema1/img-8.svg')")
          .row
  
           .col-12.col-lg-auto.justify-content-md-center.mb-4  
@@ -267,7 +267,7 @@
           .col-lg.justify-content-md-center.align-self-center
             p #[strong Qué no debe entenderse con el mensaje:] todo mensaje por claro y conciso que sea, puede llevar a confusiones y malentendidos. Por ello, este punto debe prever esos posibles baches y manifestar qué no debe creer el consumidor con la campaña o qué asociación viciosa debe evitarse con lo que se proyecte.
       
-      .py-4(titulo="Piezas" :icono="require('@/assets/tema1/img-10.svg')")
+      .py-4(titulo="Piezas" :icono="require('@/assets/tema1/img-9.svg')")
         .row.col-10.justify-content-around.imgc
 
           p.mt-3 #[strong Piezas a desarrollar:] de acuerdo con los medios planteados y con las versiones que deben hacerse de los anuncios, es necesario definir qué piezas se van a crear; adicional, es necesario relacionar:
@@ -279,7 +279,7 @@
               p #[strong Guías de ejecución:] definen cómo se van a realizar las piezas anteriormente descritas: tipos de gráficos, colores predominantes, formatos, tamaños, tipografías, etc.
 
       
-      .py-4(titulo="Cronograma" :icono="require('@/assets/tema1/img-11.svg')")
+      .py-4(titulo="Cronograma" :icono="require('@/assets/tema1/img-10.svg')")
          .row
  
           .col-12.col-lg-auto.justify-content-md-center.mb-4  
@@ -290,10 +290,10 @@
           .col-lg.justify-content-md-center.align-self-center
             p #[strong Cronograma de trabajo:] es donde el empresario determina cuándo debe ser entregada la campaña por parte de la agencia, el asesor o el freelancer.
 
-      .py-4(titulo="Legales" :icono="require('@/assets/tema1/img-11.svg')")
+      .py-4(titulo="Legales" :icono="require('@/assets/tema1/img-11.svg')").p-4
          .row
  
-          .col-12.col-lg-auto.justify-content-md-center.mb-4  
+          .col-12.col-lg-3.justify-content-md-center 
             figure
               img(src='@/assets/tema1/img-27-.svg', alt='Identificación')
               
