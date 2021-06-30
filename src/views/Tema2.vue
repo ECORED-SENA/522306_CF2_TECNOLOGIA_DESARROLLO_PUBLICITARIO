@@ -28,7 +28,8 @@
 
 
             .bloque-texto-d__autor 
-              .h5.mb-0 Patricio Bonta y Mario Farber (2002)
+              .h5.mb-0 - Patricio Bonta y Mario 
+              .h5.mb-0 Farber (2002)
                 i.fas.fa-quote-right
               
 
@@ -88,7 +89,7 @@
           li 
             .lista-ol--cuadro__vineta
               span b
-            h3|  Selección del universo
+            h3|  Caracterización del mercado
             
           p La caracterización del mercado se realiza mediante variables; para el caso de la segmentación industrial, se tendrán en cuenta las siguientes:     
 
@@ -190,7 +191,7 @@
       .col.col-lg-8
         .justify-content-around.align-items-center
           figure.mb-5
-            img(src='@/assets/tema2/img-11.svg', alt='Marketing')    
+            img(src='@/assets/tema2/img-11-.svg', alt='Marketing')    
 
     .row.justify-content-around.align-items-center.p-5  
       .col-lg.justify-content-md-center.align-self-center.px-md-5
@@ -252,7 +253,7 @@
       .col.col-lg-8
         .justify-content-around.align-items-center
           figure.mb-5
-            img(src='@/assets/tema2/img-18.svg', alt='Marketing')
+            img(src='@/assets/tema2/img-18-.svg', alt='Marketing')
     .row.justify-content-around.align-items-center.p-5  
       .col-lg.justify-content-md-center.align-self-center.px-md-5
  
@@ -457,7 +458,7 @@
           .ul.lista-ul--color
             li
               i.iii.fas.fa-caret-right
-              p #[strong Ocupación del tiempo libre:] Uno de los aspectos más relevantes en el desarrollo de un proceso de segmentación con características psicográficas, es la ocupación del tiempo libre. Puesto que, los consumidores en general tienen momentos de ocio y es justo allí, cuando la mente está más relajada, que es más proclive a la compra; teniendo en cuenta que un porcentaje alto de lo que una persona adquiere, lo hace por las emociones, lo que en neurociencia se conoce como el <code><</code>cerebro límbico<code>></code>. En este punto es indispensable analizar lo que el mercado realiza en esos momentos de ocio.
+              p #[strong Ocupación del tiempo libre:] uno de los aspectos más relevantes en el desarrollo de un proceso de segmentación con características psicográficas, es la ocupación del tiempo libre. Puesto que, los consumidores en general tienen momentos de ocio y es justo allí, cuando la mente está más relajada, que es más proclive a la compra; teniendo en cuenta que un porcentaje alto de lo que una persona adquiere, lo hace por las emociones, lo que en neurociencia se conoce como el <code><</code>cerebro límbico<code>></code>. En este punto es indispensable analizar lo que el mercado realiza en esos momentos de ocio.
    
     br 
     h3 Comportamiento de compra
