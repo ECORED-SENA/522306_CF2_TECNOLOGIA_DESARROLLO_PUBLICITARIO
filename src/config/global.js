@@ -160,7 +160,33 @@ export default {
         'División que se hace del mercado, para formar grupos específicos con características demográficas y psicográficas similares.',
     },
   ],
-
+  complementario: [
+    {
+      texto: 'Arias, M. (2020). Modelo brief de primer contacto.',
+      tipo: 'Documento PDF / Brief fundación',
+      link: '/downloads/Anexo1.pdf',
+    },
+    {
+      texto: 'Arias, M. (2020). Modelo brief de campaña táctica.',
+      tipo: 'Documento PDF / Brief fundación',
+      descarga: '/downloads/Anexo2.pdf',
+    },
+    {
+      texto: 'Arias, M. (2020). Modelo brief de primer contacto.',
+      tipo: 'Documento Word / Formato',
+      link: '/downloads/Anexo3.doc',
+    },
+    {
+      texto: 'Arias, M. (2020). Modelo brief de campaña táctica.',
+      tipo: 'Documento Word / Formato',
+      descarga: '/downloads/Anexo4.doc',
+    },
+    {
+      texto: 'Fernández, R. (2009). Segmentación de mercados.',
+      tipo: 'Libro digital',
+      link: 'https://cutt.ly/wyIsCNm',
+    },
+  ],
   creditos: {
     liderEquipo: [
       {
@@ -190,7 +216,7 @@ export default {
         centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
-        nombre: ['Nombre 1', 'Nombre 2'],
+        nombre: 'Sandra Carolina Durán López',
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
@@ -202,16 +228,18 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: [
+          'Camilo Andrés Villamizar Lizcano',
+          'Nelson Iván Vera Briceño',
+        ],
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Validación de diseño y contenido',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+        nombre: 'Milady Tatiana Villamil Castellanos',
+        cargo: 'Validación y vinculación en plataforma LMS',
+        centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
     ],
     gestoresRepositorio: [

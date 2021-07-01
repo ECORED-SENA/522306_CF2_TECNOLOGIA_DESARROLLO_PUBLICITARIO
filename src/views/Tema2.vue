@@ -191,7 +191,7 @@
       .col.col-lg-8
         .justify-content-around.align-items-center
           figure.mb-5
-            img(src='@/assets/tema2/img-11-.svg', alt='Marketing')    
+            img(src='@/assets/tema2/img-11--.svg', alt='Marketing')    
 
     .row.justify-content-around.align-items-center.p-5  
       .col-lg.justify-content-md-center.align-self-center.px-md-5
