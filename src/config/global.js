@@ -230,6 +230,15 @@ export default {
       {
         nombre: [
           'Camilo Andrés Villamizar Lizcano',
+          
+        ],
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },      
+      {
+        nombre: [
+         
           'Nelson Iván Vera Briceño',
         ],
         cargo: 'Producción audiovisual',
