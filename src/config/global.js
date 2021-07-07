@@ -228,19 +228,13 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: [
-          'Camilo Andrés Villamizar Lizcano',
-          
-        ],
+        nombre: 'Camilo Andrés Villamizar Lizcano',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },      
+      },
       {
-        nombre: [
-         
-          'Nelson Iván Vera Briceño',
-        ],
+        nombre: 'Nelson Iván Vera Briceño',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
