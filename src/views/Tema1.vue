@@ -34,8 +34,6 @@
         figure.imgc
           img(src='@/assets/tema1/img-2.svg', alt='Tipos de brief publicitarios')
 
-
-
     p En muchos campos profesionales, se realiza un brief para iniciar los proyectos que se van a llevar cabo; por ejemplo, en el desarrollo de productos audiovisuales, en el diseño gráfico y en algunos procesos estratégicos empresariales.
     br
     p.mb-5 Para el caso de la publicidad, no hay un modelo de brief estándar; sin embargo, hay un grupo de elementos que son indispensables y básicos en la estructura de este documento. Los cuales, se verán a continuación divididos en dos tipos de brief que se han creado para facilitar el proceso de diagnóstico y planeación de la comunicación:

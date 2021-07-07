@@ -6,6 +6,7 @@
       .titulo-principal__numero
         span 2
       h1 Segmentación del mercado
+      
 
     .row.justify-content-md-center.mb-4
       .col.col-lg-10
