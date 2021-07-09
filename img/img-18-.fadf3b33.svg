@@ -1,0 +1,66 @@
+<svg id="Componente_1_1" data-name="Componente 1 – 1" xmlns="http://www.w3.org/2000/svg" width="624.001" height="553.918" viewBox="0 0 624.001 553.918">
+  <text id="Ejemplo_poblacional" data-name="Ejemplo poblacional" transform="translate(13 1)" fill="#12263f" font-size="13" font-family="Roboto-Regular, Roboto"><tspan x="0" y="14">Ejemplo poblacional</tspan></text>
+  <rect id="Rectángulo_27413" data-name="Rectángulo 27413" width="4" height="21" transform="translate(0)" fill="#37a3a5"/>
+  <rect id="Rectángulo_31100" data-name="Rectángulo 31100" width="624" height="38" transform="translate(0 515.918)" fill="#dee4f0"/>
+  <text id="Fuente:_DNP_2020_" data-name="Fuente: DNP (2020)" transform="translate(20 539.918)" fill="#12263f" font-size="13" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Fuente: DNP (2020)</tspan></text>
+  <path id="Trazado_18381" data-name="Trazado 18381" d="M4247.37,972.719v365.855h153.95V972.719Z" transform="translate(-3934.004 -823.153)" fill="#f6f6f6"/>
+  <path id="Trazado_18382" data-name="Trazado 18382" d="M4162.3,972.719v365.855h153.951V972.719Z" transform="translate(-4005.617 -823.153)" fill="#f6f6f6"/>
+  <path id="Trazado_18383" data-name="Trazado 18383" d="M4077.231,972.719v365.855h153.95V972.719Z" transform="translate(-4077.231 -823.153)" fill="#f6f6f6"/>
+  <path id="Trazado_18384" data-name="Trazado 18384" d="M4332.439,972.719v365.855h153.95V972.719Z" transform="translate(-3862.388 -823.153)" fill="#f6f6f6"/>
+  <rect id="Rectángulo_3095" data-name="Rectángulo 3095" width="624" height="58.157" transform="translate(0 322.817)" fill="#cbc5e0"/>
+  <rect id="Rectángulo_3096" data-name="Rectángulo 3096" width="153.95" height="49.747" transform="translate(0 97.086)" fill="#e8e8e8"/>
+  <rect id="Rectángulo_3097" data-name="Rectángulo 3097" width="624" height="49.747" transform="translate(0 44.606)" fill="#26aab7"/>
+  <rect id="Rectángulo_3098" data-name="Rectángulo 3098" width="153.95" height="49.747" transform="translate(156.683 97.086)" fill="#e8e8e8"/>
+  <rect id="Rectángulo_3099" data-name="Rectángulo 3099" width="153.95" height="49.747" transform="translate(313.366 97.086)" fill="#e8e8e8"/>
+  <rect id="Rectángulo_3100" data-name="Rectángulo 3100" width="153.95" height="49.747" transform="translate(470.05 97.086)" fill="#e8e8e8"/>
+  <text id="TOTAL_2020_" data-name="TOTAL 2020 " transform="translate(306.615 75.692)" fill="#fff" font-size="24" font-family="Roboto-Regular, Roboto" letter-spacing="-0.025em"><tspan x="-65.965" y="0">TOTAL 2020 </tspan></text>
+  <text id="Grupos_de_edad_" data-name="Grupos de edad  " transform="translate(70.99 126.323)" font-size="18" font-family="Roboto-Regular, Roboto" letter-spacing="-0.025em"><tspan x="-64.156" y="0" xml:space="preserve">Grupos de edad  </tspan></text>
+  <text id="Ambos_Sexos_" data-name="Ambos Sexos  " transform="translate(228.135 126.323)" font-size="18" font-family="Roboto-Regular, Roboto" letter-spacing="-0.025em"><tspan x="-56.82" y="0" xml:space="preserve">Ambos Sexos  </tspan></text>
+  <text id="Hombres" transform="translate(387.657 126.323)" font-size="18" font-family="Roboto-Regular, Roboto" letter-spacing="-0.025em"><tspan x="-35.59" y="0">Hombres</tspan></text>
+  <text id="Mujeres_" data-name="Mujeres " transform="translate(544.182 126.323)" font-size="18" font-family="Roboto-Regular, Roboto" letter-spacing="-0.025em"><tspan x="-32.843" y="0">Mujeres </tspan></text>
+  <text id="Total_" data-name="Total " transform="translate(46.655 200.816)" font-size="19" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="0" y="0">Total </tspan></text>
+  <text id="_00_-_04_" data-name="00 - 04 " transform="translate(46.638 227.628)" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">00 - 04 </tspan></text>
+  <text id="_05_-_09_" data-name="05 - 09 " transform="translate(46.638 256.379)" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">05 - 09 </tspan></text>
+  <text id="_10_-_14_" data-name="10 - 14 " transform="translate(46.637 285.13)" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">10 - 14 </tspan></text>
+  <text id="_15_-_19_" data-name="15 - 19 " transform="translate(46.638 312.941)" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">15 - 19 </tspan></text>
+  <text id="_20_-_24_" data-name="20 - 24 " transform="translate(46.638 341.692)" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">20 - 24 </tspan></text>
+  <text id="_25_-_29_" data-name="25 - 29 " transform="translate(46.638 370.443)" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">25 - 29 </tspan></text>
+  <text id="_30_-_34_" data-name="30 - 34 " transform="translate(46.638 398.255)" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">30 - 34 </tspan></text>
+  <text id="_35_-_39_" data-name="35 - 39 " transform="translate(46.638 426.085)" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">35 - 39 </tspan></text>
+  <text id="_40_-_44_" data-name="40 - 44 " transform="translate(46.637 454.836)" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">40 - 44 </tspan></text>
+  <text id="_45_-_49_" data-name="45 - 49 " transform="translate(46.637 483.587)" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">45 - 49 </tspan></text>
+  <text id="_7.743.955" data-name="7.743.955" transform="translate(195.033 201.184)" font-size="17" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">7.743.955</tspan></text>
+  <text id="_493.287" data-name="493.287" transform="translate(275.762 227.628)" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="-65.382" y="0">493.287</tspan></text>
+  <text id="_482.823" data-name="482.823" transform="translate(275.762 256.379)" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="-65.382" y="0">482.823</tspan></text>
+  <text id="_490.700" data-name="490.700" transform="translate(275.762 284.19)" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="-65.382" y="0">490.700</tspan></text>
+  <text id="_550.879" data-name="550.879" transform="translate(275.762 312.941)" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="-65.382" y="0">550.879</tspan></text>
+  <text id="_711.590" data-name="711.590" transform="translate(275.762 341.692)" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="-65.382" y="0">711.590</tspan></text>
+  <text id="_749.246" data-name="749.246" transform="translate(275.762 370.443)" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="-65.382" y="0">749.246</tspan></text>
+  <text id="_673.163" data-name="673.163" transform="translate(275.762 398.255)" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="-65.382" y="0">673.163</tspan></text>
+  <text id="_613.704" data-name="613.704" transform="translate(275.762 427.006)" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="-65.382" y="0">613.704</tspan></text>
+  <text id="_539.925" data-name="539.925" transform="translate(275.762 454.836)" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="-65.382" y="0">539.925</tspan></text>
+  <text id="_477.123" data-name="477.123" transform="translate(275.762 483.587)" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="-65.382" y="0">477.123</tspan></text>
+  <text id="_3.707.838" data-name="3.707.838" transform="translate(351.719 201.184)" fill="#12263f" font-size="17" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">3.707.838</tspan></text>
+  <text id="_251.852" data-name="251.852" transform="translate(432.448 228.549)" fill="#12263f" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="-65.382" y="0">251.852</tspan></text>
+  <text id="_246.306" data-name="246.306" transform="translate(432.448 256.379)" fill="#12263f" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="-65.382" y="0">246.306</tspan></text>
+  <text id="_249.424" data-name="249.424" transform="translate(432.448 285.13)" fill="#12263f" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="-65.382" y="0">249.424</tspan></text>
+  <text id="_277.245" data-name="277.245" transform="translate(432.448 312.941)" fill="#12263f" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="-65.382" y="0">277.245</tspan></text>
+  <text id="_354.946" data-name="354.946" transform="translate(432.448 341.692)" fill="#12263f" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="-65.382" y="0">354.946</tspan></text>
+  <text id="_373.077" data-name="373.077" transform="translate(432.448 370.443)" fill="#12263f" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="-65.382" y="0">373.077</tspan></text>
+  <text id="_332.708" data-name="332.708" transform="translate(432.448 398.255)" fill="#12263f" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="-65.382" y="0">332.708</tspan></text>
+  <text id="_298.000" data-name="298.000" transform="translate(432.448 427.006)" fill="#12263f" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="-65.382" y="0">298.000</tspan></text>
+  <text id="_255.201" data-name="255.201" transform="translate(432.448 454.836)" fill="#12263f" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="-65.382" y="0">255.201</tspan></text>
+  <text id="_219.418" data-name="219.418" transform="translate(432.448 483.587)" fill="#12263f" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="-65.382" y="0">219.418</tspan></text>
+  <text id="_4.036.117" data-name="4.036.117" transform="translate(506.454 201.184)" font-size="17" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">4.036.117</tspan></text>
+  <text id="_241.435_" data-name="241.435 " transform="translate(585.656 228.549)" fill="#13273e" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="-69.838" y="0">241.435 </tspan></text>
+  <text id="_236.517_" data-name="236.517 " transform="translate(585.656 256.379)" fill="#13273e" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="-69.838" y="0">236.517 </tspan></text>
+  <text id="_241.276_" data-name="241.276 " transform="translate(585.656 285.13)" fill="#13273e" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="-69.838" y="0">241.276 </tspan></text>
+  <text id="_273.634_" data-name="273.634 " transform="translate(585.656 312.941)" fill="#13273e" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="-69.838" y="0">273.634 </tspan></text>
+  <text id="_356.644_" data-name="356.644 " transform="translate(585.656 341.692)" fill="#13273e" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="-69.838" y="0">356.644 </tspan></text>
+  <text id="_376.169_" data-name="376.169 " transform="translate(585.656 369.522)" fill="#13273e" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="-69.838" y="0">376.169 </tspan></text>
+  <text id="_340.455_" data-name="340.455 " transform="translate(585.656 398.255)" fill="#13273e" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="-69.838" y="0">340.455 </tspan></text>
+  <text id="_315.704_" data-name="315.704 " transform="translate(585.656 427.006)" fill="#13273e" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="-69.838" y="0">315.704 </tspan></text>
+  <text id="_284.724_" data-name="284.724 " transform="translate(585.656 454.836)" fill="#13273e" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="-69.838" y="0">284.724 </tspan></text>
+  <text id="_257.705_" data-name="257.705 " transform="translate(585.656 483.587)" fill="#13273e" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="-69.838" y="0">257.705 </tspan></text>
+  <text id="Bogotá_D.C._" data-name="Bogotá, D.C.  " transform="translate(21.11 172.458)" font-size="17" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0" xml:space="preserve">Bogotá, D.C.  </tspan></text>
+</svg>
