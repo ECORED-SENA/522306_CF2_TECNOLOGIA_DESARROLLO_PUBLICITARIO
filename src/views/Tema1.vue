@@ -49,8 +49,9 @@
         .justify-content-around.align-items-center
             figure.mb-5
               .video
-                           
-                iframe(width="560" height="315" src="https://www.youtube.com/embed/Y_Qa3TC_s1U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> 
+                iframe(width="560" height="315" src="https://www.youtube.com/embed/Y_Qa3TC_s1U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)     
+
+     
 
     p.mb-5 Como su nombre lo indica, es un brief que se realiza cuando una empresa contrata por primera vez a una agencia, asesor o freelancer publicitario. Tiene como característica principal que es más diagnóstico que estratégico, porque su objetivo es permitir a quien va a desarrollar las estrategias de comunicación, conocer la compañía desde el análisis de las variables del mercado. También, es más general; es decir, su enfoque está en toda la empresa y no en un producto o servicio en particular, porque lo que se requiere en este punto es conocerla por parte de quién o quiénes realizan el estudio.      
 
