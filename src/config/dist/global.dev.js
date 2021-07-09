@@ -118,7 +118,7 @@ var _default = {
   complementario: [{
     texto: 'Arias, M. (2020). Modelo brief de primer contacto.',
     tipo: 'Documento PDF / Brief fundación',
-    link: '/downloads/Anexo111.pdf'
+    descarga: '/downloads/Anexo111.pdf'
   }, {
     texto: 'Arias, M. (2020). Modelo brief de campaña táctica.',
     tipo: 'Documento PDF / Brief fundación',
@@ -126,7 +126,7 @@ var _default = {
   }, {
     texto: 'Arias, M. (2020). Modelo brief de primer contacto.',
     tipo: 'Documento Word / Formato',
-    link: '/downloads/Anexo333.doc'
+    descarga: '/downloads/Anexo333.doc'
   }, {
     texto: 'Arias, M. (2020). Modelo brief de campaña táctica.',
     tipo: 'Documento Word / Formato',
